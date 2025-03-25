@@ -2,32 +2,33 @@
 
 #   🎬 → 🎵 Awesome Vision-to-Music Generation
 
-<img alt="overview" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
-
 
 <p align="center">
   <a href="http"><b>[📜 Paper]</b></a>
   <br>
 </p>
-
 This is the repo for the paper "[A Survey on Video-to-music and Image-to-music Generation: Methods, Datasets, and Challenges](http)". This paper conducts a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music generation** and **image-to-music generation**. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to **Methods**, **Datasets**, and **Evaluation** of V2M. This collection will be **continuously updated**. We aim to provide you with comprehensive knowledge in the V2M field, hoping it can help you quickly familiarize yourself with this research direction.
 
+<img alt="overview" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
 
-  <img alt="trend" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/timeline.jpg">
-
+<div align="center">
+  <img alt="trend" style="width: 80%; height: auto; margin-bottom: 20px;" src="images/timeline.jpg">
+</div>
 
 
 
 
 ## 📖 Table of Contents
-- [Methods](#🧩-v2m-methods)
-- [Datasets](#🎬-v2m-datasets)
-- [Evaluation](#📊-v2m-evaluation)
-- [Full List](#📚-full-list)
-- [Contact](#✉️-contact)
-- [Citation](#📎-citation)
+- [Methods](#methods)
+- [Datasets](#datasets)
+- [Evaluation](#evaluation)
+- [Full List](#full-list)
+- [Contacts](#contacts)
+- [Citation](#citation)
 
 
+
+<a id="methods"></a>
 
 ## 🧩 V2M Methods
 
@@ -77,7 +78,7 @@ This is the repo for the paper "[A Survey on Video-to-music and Image-to-music G
 
 
 
-
+<a id="datasets"></a>
 ## 🎬 V2M Datasets
 
 ### 🔻 *General Videos*
@@ -122,6 +123,8 @@ This is the repo for the paper "[A Survey on Video-to-music and Image-to-music G
 | MeLBench    | [Paper](https://arxiv.org/pdf/2406.04673)                    | [Link](https://schowdhury671.github.io/melfusion_cvpr2024/) | 2024/06 | Image (Diverse Videos)    | Audio    | 11.2K | 31.2               | 10                | Genre, Caption |
 
 
+
+<a id="evaluation"></a>
 
 ## 📊 V2M Evaluation
 
@@ -181,6 +184,8 @@ This is the repo for the paper "[A Survey on Video-to-music and Image-to-music G
 | Overall Correspondence |
 
 
+
+<a id="full-list"></a>
 
 ## 📚 Full List
 
@@ -312,11 +317,14 @@ This is the repo for the paper "[A Survey on Video-to-music and Image-to-music G
 
     
 
+<a id="contacts"></a>
 
 ## ✉️ Contacts
 The repo is being updated actively🚀. Please let us know if you notice any mistakes or would like any work to be included in our list through [GitHub pull requests](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation/pulls) or e-mail: wangzhaokai@sjtu.edu.cn.
 
 
+
+<a id="citation"></a>
 
 ## 📎 Citation
 
