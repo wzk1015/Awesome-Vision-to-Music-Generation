@@ -18,11 +18,8 @@ Awesome Vision-to-Music Generation
 
 This is the repo for the paper "[A Survey on Video-to-music and Image-to-music Generation: Methods, Datasets, and Challenges](http)". This paper conducts a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music generation** and **image-to-music generation**. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to **Methods**, **Datasets**, and **Evaluation** of V2M. This collection will be **continuously updated**. We aim to provide you with comprehensive knowledge in the V2M field, hoping it can help you quickly familiarize yourself with this research direction.
 
-<h1 align="center">
-  <img style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
-  <br>
-  <img style="width: 100%; height: auto; margin-bottom: 20px;" src="images/trend.jpg">
-</h1>
+  <img alt="overview" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
+  <img alt="trend" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/timeline.jpg">
 
 
 
@@ -164,7 +161,7 @@ TODO (convert from tables with GPT)
 
 
 ## Contact
-The repo is still being updated actively🚀. Please let us know if you notice any mistakes or would like any work to be included in our list through [GitHub issues](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation/issues) or e-mail: wangzhaokai@sjtu.edu.cn.
+The repo is still being updated actively🚀. Please let us know if you notice any mistakes or would like any work to be included in our list through [GitHub pull requests](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation/pulls) or e-mail: wangzhaokai@sjtu.edu.cn.
 
 
 
