@@ -160,7 +160,7 @@ TODO (convert from tables with GPT)
 
 
 
-## Contact
+## Contacts
 The repo is still being updated actively🚀. Please let us know if you notice any mistakes or would like any work to be included in our list through [GitHub pull requests](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation/pulls) or e-mail: wangzhaokai@sjtu.edu.cn.
 
 
