@@ -2,12 +2,11 @@
 
 #   🎬 → 🎵 Awesome Vision-to-Music Generation
 
+> [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/)
+>
+> Zhaokai Wang, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao
 
-<p align="center">
-  <a href="http"><b>[📜 Paper]</b></a>
-  <br>
-</p>
-This is the repo for the paper "[A Survey on Video-to-music and Image-to-music Generation: Methods, Datasets, and Challenges](http)". This paper conducts a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music generation** and **image-to-music generation**. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to **Methods**, **Datasets**, and **Evaluation** of V2M. This collection will be **continuously updated**. We aim to provide you with comprehensive knowledge in the V2M field, hoping it can help you quickly familiarize yourself with this research direction.
+We provide a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music generation** and **image-to-music generation**. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to **Methods**, **Datasets**, and **Evaluation** of V2M. This collection will be **continuously updated**. 
 
 <img alt="overview" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
 
