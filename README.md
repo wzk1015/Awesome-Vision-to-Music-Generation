@@ -2,7 +2,7 @@
 
 #   🎬 → 🎵 Awesome Vision-to-Music Generation
 
-> [Vision-to-Music Generation: A Survey](https://arxiv.org/abs/)
+> [Vision-to-Music Generation: A Survey [arXiv]](https://arxiv.org/abs/2503.21254)
 >
 > Zhaokai Wang, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao
 
@@ -329,7 +329,11 @@ The repo is being updated actively🚀. Please let us know if you notice any mis
 
 If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.
 ```
-@article{
+@article{Wang2025VisionToMusic,
+  title={Vision-to-Music Generation: A Survey},
+  author={Wang, Zhaokai and Bao, Chenxi and Zhuo, Le and Han, Jingrui and Yue, Yang and Tang, Yihong and Huang, Victor Shea-Jay and Liao, Yue},
+  journal={arXiv preprint arXiv:2503.21254},
+  year={2025}
 }
 ```
 
