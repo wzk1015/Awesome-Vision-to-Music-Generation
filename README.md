@@ -6,7 +6,7 @@
 >
 > Zhaokai Wang, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao
 
-We provide a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music generation** and **image-to-music generation**. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to **Methods**, **Datasets**, and **Evaluation** of V2M. This collection will be **continuously updated**. 
+We provide a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music** and **image-to-music** generation. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to methods, datasets, and evaluation of V2M. Notably, we list [demo links](#methods-general-videos-and-images) for all papers. This collection will be **continuously updated**. 
 
 <img alt="overview" style="width: 100%; height: auto; margin-bottom: 20px;" src="images/overview.jpg">
 
@@ -31,6 +31,7 @@ We provide a comprehensive survey on **vision-to-music generation *(V2M)***, inc
 
 ## 🧩 V2M Methods
 
+<a id="methods-general-videos-and-images"></a>
 ### 🔻 *General Videos and Images*
 
 | Method         | Paper Link | Demo Link | Date    | Input Type           | Modality | Music Length | Vision-Music Relationships | Vision Encoding                                          | Vision-Music Projection | Music Generation          |
