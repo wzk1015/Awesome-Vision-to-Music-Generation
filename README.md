@@ -271,7 +271,7 @@ We provide a comprehensive survey on **vision-to-music generation *(V2M)***, inc
 
 41. [2024/06] [CVPR 2024] MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models [[paper](https://arxiv.org/pdf/2406.04673)]
 
-42. [2024/06] VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling [[paper](https://arxiv.org/pdf/2406.04321)]
+42. [2024/06] [CVPR 2025] VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling [[paper](https://arxiv.org/pdf/2406.04321)]
 
 43. [2024/07] [ICMEW 2024] Popular Hooks: A Multimodal Dataset of Musical Hooks for Music Understanding and Generation [[paper]](https://ieeexplore.ieee.org/abstract/document/10645427)
 
