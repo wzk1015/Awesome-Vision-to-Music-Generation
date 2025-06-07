@@ -2,7 +2,7 @@
 
 #   🎬 → 🎵 Awesome Vision-to-Music Generation
 
-> [Vision-to-Music Generation: A Survey [arXiv]](https://arxiv.org/abs/2503.21254)
+> [Vision-to-Music Generation: A Survey (ISMIR 2025)](https://arxiv.org/abs/2503.21254)
 >
 > Zhaokai Wang, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao
 
