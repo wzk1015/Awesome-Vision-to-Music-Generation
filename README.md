@@ -59,6 +59,8 @@ We provide a comprehensive survey on **vision-to-music generation *(V2M)***, inc
 | GVMGen         |  [Paper](https://arxiv.org/pdf/2501.09972)          | [Demo](https://chouliuzuo.github.io/GVMGen/) | 2025/01 | General Video        | Audio    | 15sec        | Semantics                  | CLIP                                                     | Adapter                 | AR (MusicGen)             |
 | AudioX         |  [Paper](https://arxiv.org/pdf/2503.10522)          | [Demo](https://zeyuet.github.io/AudioX/) | 2025/03 | General Video        | Audio    | 10sec        | Semantics                  | CLIP                                                     | Feature                 | Diff. (Stable Audio Open) |
 | FilmComposer   |  [Paper](https://arxiv.org/pdf/2503.08147)          | [Demo](https://apple-jun.github.io/FilmComposer.github.io/) | 2025/03 | General Video        | Audio    | 15sec        | Semantics, Rhythm          | Controllable Rhythm Transformer, GPT-4v, Motion Detector | Text                    | AR (MusicGen)             |
+| DyViM   |  [Paper](https://arxiv.org/pdf/2504.07594)          | - | 2025/04 | General Video        | Audio    | 10sec        | Semantics, Dynamics          | Optical flow, CLIP |  Adaptor, Cross-attention         | AR (MusicGen)             |
+
 
 ### 🔻 *Human Movement Videos*
 
@@ -314,6 +316,8 @@ We provide a comprehensive survey on **vision-to-music generation *(V2M)***, inc
 62. [2025/03] [CVPR 2025] FilmComposer: LLM-Driven Music Production for Silent Film Clips [[paper](https://arxiv.org/pdf/2503.08147)]
 
 63. [2025/03] [CVPR 2025] HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization [[paper](https://arxiv.org/pdf/2503.01725)]
+
+64. [2025/04] Extending Visual Dynamics for Video-to-Music Generation [[paper](https://arxiv.org/pdf/2504.07594)]
 
     
 
