@@ -5,6 +5,9 @@
 > [Vision-to-Music Generation: A Survey (ISMIR 2025)](https://arxiv.org/abs/2503.21254)
 >
 > Zhaokai Wang, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao
+>
+
+[[📚 Paper]](https://arxiv.org/abs/2503.21254) [[🎬 Video]](https://www.youtube.com/watch?v=JwV05mMlOG0)
 
 We provide a comprehensive survey on **vision-to-music generation *(V2M)***, including **video-to-music** and **image-to-music** generation. This survey aims to inspire further innovation in vision-to-music generation and the broader field of AI music generation in both academic research and industrial applications. In this repository, we have listed relevant papers related to methods, datasets, and evaluation of V2M. Notably, we list [demo links](#methods-general-videos-and-images) for all papers. This collection will be **continuously updated**. 
 
