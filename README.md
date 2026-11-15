@@ -326,6 +326,10 @@ We provide a comprehensive survey on **vision-to-music generation *(V2M)***, inc
 
 <a id="contacts"></a>
 
+## 🎸 Related Live-Music Resources
+
+- [No Stairs Please](https://nostairsplease.com/) - Public directory and [MCP server](https://nostairsplease.com/mcp) covering small live-music stages across all 50 US states.
+
 ## ✉️ Contacts
 The repo is being updated actively🚀. Please let us know if you notice any mistakes or would like any work to be included in our list through [GitHub pull requests](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation/pulls) or e-mail: wangzhaokai@sjtu.edu.cn.
 
